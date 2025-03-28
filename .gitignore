@@ -199,4 +199,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#ignored ideafiles
+*.idea
+
+
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,windows,macos
